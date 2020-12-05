@@ -44,7 +44,7 @@ app.post("/", function (req, res) {
   const options =
   {
     method : 'POST' ,
-    auth : "user:cebec6d9ee9a05edb6b863478b297e56-us7"
+    auth : "user:2b4419fe98bc14a3a3ffc8dc0aa2ef84-us7"
   }
 
 
